@@ -1,4 +1,4 @@
-package com.melhc.activity;
+package com.aile.activity;
 
 import android.content.Intent;
 import android.content.SharedPreferences;
@@ -20,10 +20,10 @@ import com.android.volley.VolleyError;
 import com.android.volley.toolbox.HttpHeaderParser;
 import com.android.volley.toolbox.StringRequest;
 import com.android.volley.toolbox.Volley;
-import com.melhc.service.AutoUpdateService;
-import com.melhc.simpleweather.R;
-import com.melhc.util.LogUtil;
-import com.melhc.util.Utility;
+import com.aile.service.AutoUpdateService;
+import com.aile.simpleweather.R;
+import com.aile.util.LogUtil;
+import com.aile.util.Utility;
 
 import java.io.UnsupportedEncodingException;
 

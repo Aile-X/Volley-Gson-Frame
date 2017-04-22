@@ -1,4 +1,4 @@
-package com.melhc.model;
+package com.aile.model;
 
 import java.util.ArrayList;
 import java.util.List;

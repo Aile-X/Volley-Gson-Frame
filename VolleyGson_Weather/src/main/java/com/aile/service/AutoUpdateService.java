@@ -1,13 +1,13 @@
-package com.melhc.service;
+package com.aile.service;
 
 import com.android.volley.RequestQueue;
 import com.android.volley.Response;
 import com.android.volley.VolleyError;
 import com.android.volley.toolbox.StringRequest;
 import com.android.volley.toolbox.Volley;
-import com.melhc.reciever.AutoUpdateReceiver;
-import com.melhc.util.LogUtil;
-import com.melhc.util.Utility;
+import com.aile.reciever.AutoUpdateReceiver;
+import com.aile.util.LogUtil;
+import com.aile.util.Utility;
 
 import android.app.AlarmManager;
 import android.app.PendingIntent;

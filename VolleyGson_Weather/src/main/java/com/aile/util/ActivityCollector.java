@@ -1,9 +1,9 @@
-package com.melhc.util;
+package com.aile.util;
+
+import android.app.Activity;
 
 import java.util.ArrayList;
 import java.util.List;
-
-import android.app.Activity;
 /*
  * 活动管理器
  */

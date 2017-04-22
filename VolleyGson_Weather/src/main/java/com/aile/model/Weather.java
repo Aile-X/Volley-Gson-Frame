@@ -1,4 +1,4 @@
-package com.melhc.model;
+package com.aile.model;
 
 public class Weather {
 	private WeatherInfo weatherinfo;

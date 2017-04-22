@@ -1,6 +1,6 @@
-package com.melhc.util;
+package com.aile.util;
 
-import com.melhc.simpleweather.R;
+import com.aile.simpleweather.R;
 
 import android.content.Context;
 import android.content.res.TypedArray;

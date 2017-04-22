@@ -1,4 +1,4 @@
-package com.melhc.util;
+package com.aile.util;
 
 /*
  *  网路连接的回掉接口

@@ -1,4 +1,4 @@
-package com.melhc.util;
+package com.aile.util;
 
 import android.content.Context;
 import android.content.SharedPreferences;
@@ -6,12 +6,12 @@ import android.preference.PreferenceManager;
 import android.text.TextUtils;
 
 import com.google.gson.Gson;
-import com.melhc.db.WeatherDB;
-import com.melhc.model.City;
-import com.melhc.model.County;
-import com.melhc.model.Province;
-import com.melhc.model.Weather;
-import com.melhc.model.WeatherInfo;
+import com.aile.db.WeatherDB;
+import com.aile.model.City;
+import com.aile.model.County;
+import com.aile.model.Province;
+import com.aile.model.Weather;
+import com.aile.model.WeatherInfo;
 
 import java.text.SimpleDateFormat;
 import java.util.Date;

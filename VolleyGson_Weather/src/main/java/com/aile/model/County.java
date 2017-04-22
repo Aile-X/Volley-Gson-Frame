@@ -1,4 +1,4 @@
-package com.melhc.model;
+package com.aile.model;
 
 import org.litepal.crud.DataSupport;
 

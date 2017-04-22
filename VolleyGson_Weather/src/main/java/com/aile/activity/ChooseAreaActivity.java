@@ -1,4 +1,4 @@
-package com.melhc.activity;
+package com.aile.activity;
 
 import android.app.ProgressDialog;
 import android.content.Intent;
@@ -23,13 +23,13 @@ import com.android.volley.VolleyError;
 import com.android.volley.toolbox.HttpHeaderParser;
 import com.android.volley.toolbox.StringRequest;
 import com.android.volley.toolbox.Volley;
-import com.melhc.db.WeatherDB;
-import com.melhc.model.City;
-import com.melhc.model.County;
-import com.melhc.model.Province;
-import com.melhc.simpleweather.R;
-import com.melhc.util.LogUtil;
-import com.melhc.util.Utility;
+import com.aile.db.WeatherDB;
+import com.aile.model.City;
+import com.aile.model.County;
+import com.aile.model.Province;
+import com.aile.simpleweather.R;
+import com.aile.util.LogUtil;
+import com.aile.util.Utility;
 
 import java.io.UnsupportedEncodingException;
 import java.util.ArrayList;

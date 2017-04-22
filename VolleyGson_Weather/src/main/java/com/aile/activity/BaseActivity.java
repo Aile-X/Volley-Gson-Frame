@@ -1,7 +1,7 @@
-package com.melhc.activity;
+package com.aile.activity;
 
-import com.melhc.util.ActivityCollector;
-import com.melhc.util.LogUtil;
+import com.aile.util.ActivityCollector;
+import com.aile.util.LogUtil;
 
 import android.app.Activity;
 import android.os.Bundle;

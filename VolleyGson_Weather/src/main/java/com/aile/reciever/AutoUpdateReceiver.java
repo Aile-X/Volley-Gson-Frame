@@ -1,6 +1,6 @@
-package com.melhc.reciever;
+package com.aile.reciever;
 
-import com.melhc.service.AutoUpdateService;
+import com.aile.service.AutoUpdateService;
 
 import android.content.BroadcastReceiver;
 import android.content.Context;

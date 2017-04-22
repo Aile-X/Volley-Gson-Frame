@@ -1,13 +1,13 @@
-package com.melhc.db;
+package com.aile.db;
 
 import java.util.List;
 
 import org.litepal.crud.DataSupport;
 import org.litepal.tablemanager.Connector;
 
-import com.melhc.model.City;
-import com.melhc.model.County;
-import com.melhc.model.Province;
+import com.aile.model.City;
+import com.aile.model.County;
+import com.aile.model.Province;
 
 import android.database.sqlite.SQLiteDatabase;
 
